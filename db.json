@@ -20,6 +20,18 @@
       "College": "Sri vasavi",
       "id": 2
     }
+  ],
+  "Address": [
+    {
+      "Place": "Chennai",
+      "Area": "Guindy"
+      "id": 1
+    },
+    {
+      "Place": "Hyderabad",
+      "Area": "sc",
+      "id": 2
+    }
   ]
  
 }
